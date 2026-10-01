@@ -91,7 +91,7 @@ AI 最危险的地方，是它编出来的引用**看起来非常专业**。所�
 
    也可以直接克隆：
    ```bash
-   git clone https://github.com/<GitHub用户名>/citation-check.git ~/.claude/skills/citation-check
+   git clone https://github.com/miranda9830/citation-check.git ~/.claude/skills/citation-check
    ```
 
 ### 使用
@@ -212,10 +212,20 @@ Sources can come from your **Zotero library** (matched by author + year, disambi
 
 ---
 
-## Author · 作者
+## 作者与署名 · Author & Attribution
 
-刘馨心 (Xinxin Liu)
+**作者 Author：刘馨心 (Xinxin Liu)**
+
+本项目的产品设计、核查方法与代码均由刘馨心创作。© 2026 刘馨心 (Xinxin Liu)，保留署名权。
+The product design, verification method and code of this project were created by 刘馨心 (Xinxin Liu). © 2026 刘馨心 (Xinxin Liu).
+
+- 依据 [MIT 许可证](LICENSE)，任何复制、修改或再发布本项目的行为，都**必须保留**上述版权声明与许可证全文。
+  Under the [MIT License](LICENSE), any copy, modification or redistribution **must retain** the copyright notice and the full license text.
+- 如果你在自己的项目、文章、课程或产品中使用或参考了本项目，请注明出处：
+  If you use or build on this project in your own work, please credit it as:
+
+  > 刘馨心 (Xinxin Liu). *citation-check: 引用核查 Skill / Citation Verification Skill for Claude Code*. 2026. https://github.com/miranda9830/citation-check
 
 ## License · 许可证
 
-[MIT](LICENSE)
+[MIT](LICENSE) © 2026 刘馨心 (Xinxin Liu)
